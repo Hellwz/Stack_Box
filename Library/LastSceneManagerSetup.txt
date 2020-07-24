@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/box_stack.unity
+  isLoaded: 1
+  isActive: 1
